@@ -1,0 +1,49 @@
+﻿Ethan Allgood
+CST 356 
+Lab 2
+
+Ex. 1___
+
+1) --
+2) --
+3) --
+4) --
+5) 
+	a. --
+	b. --
+	c. --
+	d. The Razor code "DateTime.Now.Year" generates the year
+	e. Web server
+6) --
+
+Ex. 2___
+
+1) --
+2) --
+3) -- 
+4) --
+5) --
+6) HtmlHelpers; the model is identified by the file name it's contained in.
+7) --
+8) Yes; The layout is the same.
+9) The behavior for the list action is not defined yet.
+
+Ex. 3___
+
+1) --
+2) --
+3) The first line of the file?
+4) --
+5) --
+6) -- 
+7) --
+
+Ex. 4
+
+1) An entry with empty fields except for the "Years in School" field.
+2) It displays messages indicating the required fields and disallows submission.
+3) --
+4) --
+5) --
+
+EXTRA CREDIT) --
